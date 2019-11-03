@@ -1,3 +1,4 @@
 Primer texto
 En la vida
-todo muere
+lo vuelto no vuelve a morir
+modificación en conflicto con la subrama
