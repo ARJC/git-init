@@ -4,3 +4,5 @@ lo muerto no vuelve a morir
 modificación en conflicto con la subrama
 Agregar todos los archivos con extencion .txt en un directorio
 usando $ git add [dir]*.txt
+Prueba 2 del pathspec con subdirectorios
+$git add Archivos/*.txt no agrega los archivos .txt dentro de Archivos/Subdir
