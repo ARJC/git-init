@@ -1,4 +1,6 @@
 Primer texto
 En la vida
-lo vuelto no vuelve a morir
+lo muerto no vuelve a morir
 modificación en conflicto con la subrama
+Agregar todos los archivos con extencion .txt en un directorio
+usando $ git add [dir]*.txt
