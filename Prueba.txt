@@ -1,0 +1,6 @@
+Test
+test 2
+test 2 del pathspec with add
+otro test xd
+A eliminar
+revisar cambio
