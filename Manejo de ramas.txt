@@ -1,0 +1,3 @@
+Manejo de ramas en Git
+$ git log --graph --decorate --oneline muestra el arbolito
+como se agrega a una variable?
