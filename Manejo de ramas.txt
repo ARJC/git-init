@@ -2,6 +2,6 @@ Manejo de ramas en Git
 $ git log --graph --decorate --oneline muestra el arbolito
 como se agrega a una variable?
 
-Rama principal es master
+Rama principal es master llegaran otros commits antes del nuestro
 rama de desarrollo development
 rama de manejo de errores HotFixed
